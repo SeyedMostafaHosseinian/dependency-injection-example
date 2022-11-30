@@ -28,7 +28,7 @@ export class BeanFactory implements FactoryInterface {
     return this.name
   }
 }
-
+//salam
 @injectable()
 export class CoffeeMaker implements CoffeeMakerInterface {
   constructor(
